@@ -421,7 +421,7 @@
       >
       <img
         class="card__back"
-        src="./card-back.png"
+        src="https://raw.githubusercontent.com/ika9810/HoneyJeans-Web/main/card-back.png"
         alt="The back of a Pokemon Card, a Pokeball in the center with Pokemon logo above and below"
         loading="lazy"
         width="1024"
