@@ -113,7 +113,8 @@
 				<strong>⏰ HoneyJeans Daily Meme is updated every 6 hours! </strong>
 					<br>
 					🚨 The assets and all files generated from this page are NOT commercially available. <br>
-					<a href="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png" target ='_blank'>👊 Click Here to Download HoneyJeans Meme Image! 🐇</a>
+					<a href="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png" target ='_blank'>👊 Click Here to Download HoneyJeans Meme Image! 🐇</a><br><br>
+					<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhoneyjeans.honeyvuitton.com&count_bg=%235A699D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 			</p>
 		</section>
 	</header>		
