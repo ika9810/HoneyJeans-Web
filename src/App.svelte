@@ -76,7 +76,7 @@
 				🌈 Welcome to HoneyJeans! 🌈 <br>
 				🐰 Featuring NewJeans' Official Character, "Tokki" 🎉<br>
 				🔥 Uniquely generated & stylishly curated memes 👩‍🎨<br>
-				⌛ Get the latest HoneyJeans Memes every 6 hours! 🔄
+				⌛ Get the latest HoneyJeans Memes every 8 hours! 🔄
 				<!-- <mark>HoneyJeans</mark> is a collection of randomly generated and stylistically curated Memes based on NewJeans Official Character, <mark>"Tokki"</mark>
 				A collection of <mark>advanced CSS</mark> styles to create
 				<mark>realistic-looking effects</mark> for the faces of Pokemon cards. 
@@ -110,7 +110,7 @@
 			<hr />
 
 			<p class="small">
-				<strong>⏰ HoneyJeans Daily Meme is updated every 6 hours! </strong>
+				<strong>⏰ HoneyJeans Daily Meme is updated every 8 hours! </strong>
 					<br>
 					🚨 The assets and all files generated from this page are NOT commercially available. <br>
 					<a href="https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/build/images/1.png" target ='_blank'>👊 Click Here to Download HoneyJeans Meme Image! 🐇</a><br><br>
